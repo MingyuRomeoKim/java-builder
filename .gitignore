@@ -19,3 +19,12 @@ gradle-app.setting
 .project
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
+
+/.gradle
+/.idea
+/.vscode
+/.vagrant
+/build
+/logs
+.DS_Store
+config.properties
